@@ -5,5 +5,5 @@
 <em> A Cross-Compatible Shell written in lua </em>
 </div>
 
-[!IMPORTANT]
+> [!IMPORTANT]
 > This Project is still in development
