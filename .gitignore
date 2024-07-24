@@ -2,3 +2,8 @@
 /lua
 /lua_modules
 /.luarocks
+deps/
+.env
+config.json
+config.lua
+nohup.out
